@@ -192,7 +192,6 @@
 				TargetAttributes = {
 					D24408D41F6873A700D58AC7 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 4V48J9GGFV;
 						ProvisioningStyle = Automatic;
 					};
 					D24408E81F6873A700D58AC7 = {
@@ -432,7 +431,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4V48J9GGFV;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = iOSHelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.luxena.CompathAzureTest;
@@ -445,7 +444,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4V48J9GGFV;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = iOSHelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.luxena.CompathAzureTest;
